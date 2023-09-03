@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1
+        "levelProgress": 1
+        "moneyLevel": 100
+        "username": user1
+    }
+    {
+        "id": 2
+        "levelProgress": 2
+        "moneyLevel": 100
+        "username": user2
+    }
+    {
+        "id": 3
+        "levelProgress": 3
+        "moneyLevel": 100
+        "username": user3
+    }
+]
+
